@@ -59,10 +59,10 @@ Edit the `src/config/salon.js` file to customize:
 ```javascript
 export const salonConfig = {
   name: 'Your Salon Name',
-  phone: '+374 XX XXX XXX',
-  whatsapp: '+374XXXXXXXX',
+  phone: '+374 00 123 456',
+  whatsapp: '+37400123456',
   address: {
-    hy: 'Ձdelays delays, delays 1',
+    hy: 'Ձեր հասցեն, Փողոց 1',
     en: 'Your Address, Street 1',
     ru: 'Ваш адрес, улица 1'
   },

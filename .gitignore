@@ -1,0 +1,13 @@
+yarn-error.log
+.vscode
+.idea
+coverage
+.php-cs-fixer.cache
+node_modules/
+dist/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn.lock
+pnpm-lock.yaml
+.DS_Store
